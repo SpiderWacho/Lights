@@ -1,0 +1,3 @@
+#!D:\Gaston\Documentos\Code\Lights\venv\Scripts\python.exe
+from numba.pycc import main
+main()
